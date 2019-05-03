@@ -9,3 +9,6 @@ Images are created using Gramian Angular Field [1] of time series data. Using Py
 [1] Image representation created using Gramian Angular Field described by Zhiguang Wang and Tim Oates (Jun 2015) here: https://arxiv.org/pdf/1506.00327.pdf
 
 ## Description of files:
+- `dataset.csv`: The data for the competition, can be found at https://ucsb-erp-contest.herokuapp.com/
+- `imagecreater.py`: Adds relevant features to the data set and creates image representation of time series data
+- 
