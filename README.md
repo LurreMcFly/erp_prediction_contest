@@ -3,12 +3,11 @@ The UCSB Department of Statistics &amp; Applied Probability and the Center for F
 
 Link to competition: https://ucsb-erp-contest.herokuapp.com/
 
-## Methods and Tools Used In Project
-- Convolutional Neural Networks
-- Multiple Input Convolutional Neural Networks
-- Image Creation using Gramian Angular Fields
+## Tools and Methods Used In Project
 - Pytorch
 - Fastai
+- Multiple and Single Input Convolutional Neural Networks
+- Image Creation using Gramian Angular Fields
 
 ## Aim
 Images are created using Gramian Angular Field [1] of time series data. Using Python, Fastai and Pytorch a Convolutional Neural Network is created to take multiple image imputs.
