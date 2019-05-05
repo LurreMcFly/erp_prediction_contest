@@ -27,4 +27,4 @@ Images are created using Gramian Angular Field [1] of time series data. Using Py
 - `4 percentage+BB+MA20050diff+MACD.ipynb`: Creates, trains and tests a CNN for 4 inputs: percentage, BB, MA20050diff, MACD.
 
 ## Note
-The file containing the images is too large to upload. The images can be reconstructed using the `imagecreater.py` and `dataset.csv` or reach out to me.
+The file containing the images is too large to upload. The images can be reconstructed using the `imagecreater.py` and `dataset.csv`.
