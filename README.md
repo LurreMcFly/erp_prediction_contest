@@ -16,7 +16,7 @@ Images are created using Gramian Angular Field [1] of time series data. Using Py
 
 ## Description of files:
 - `Jonas ERP Contest.pdf`: Complete report on project.
-- `4 percentage+BB+MA20050diff+MACD.html`: The same notebook as `4 percentage+BB+MA20050diff+MACD.ipynb` where all steps has bee commented.
+- `4 percentage+BB+MA20050diff+MACD.html`: The same notebook as `4 percentage+BB+MA20050diff+MACD.ipynb` where __all steps has bee commented.__
 - `dataset.csv`: The data for the competition, can be found at https://ucsb-erp-contest.herokuapp.com/
 - `imagecreater.py`: Adds relevant features to the data set and creates image representation of time series data
 - `ResNet50 CLOSE.ipynb`: Creates, trains and tests a CNN for single input: CLOSE.
