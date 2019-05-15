@@ -15,6 +15,7 @@ Images are created using Gramian Angular Field [1] of time series data. Using Py
 [1] Image representation created using Gramian Angular Field described by Zhiguang Wang and Tim Oates (Jun 2015) here: https://arxiv.org/pdf/1506.00327.pdf
 
 ## Description of files:
+- `Jonas ERP Contest.pdf`: Report where steps are explained, reasoning behind choices and discussion on improvements.
 - `4 percentage+BB+MA20050diff+MACD.html`: The same notebook as `4 percentage+BB+MA20050diff+MACD.ipynb` where all steps has bee commented.
 - `dataset.csv`: The data for the competition, can be found at https://ucsb-erp-contest.herokuapp.com/
 - `imagecreater.py`: Adds relevant features to the data set and creates image representation of time series data
