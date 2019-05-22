@@ -2,8 +2,8 @@
 ## Winning contribution
 The UCSB Department of Statistics &amp; Applied Probability and the Center for Financial Mathematics and Actuarial Research are partnering with Hull Tactical to run a data science contest on predicting the S&P 500 returns. 
 
-Link to competition: https://ucsb-erp-contest.herokuapp.com/
-Slides can be found at:https://docs.google.com/presentation/d/1zC-y9jtTpfaNGIR7_5C1oHYKibpa8ITIv0sUOjxE1qk/edit?usp=sharing
+Link to competition: https://ucsb-erp-contest.herokuapp.com/   
+Slides can be found at: https://docs.google.com/presentation/d/1zC-y9jtTpfaNGIR7_5C1oHYKibpa8ITIv0sUOjxE1qk/edit?usp=sharing
 
 ## Tools and Methods Used In Project
 - Pytorch
