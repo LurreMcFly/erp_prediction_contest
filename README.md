@@ -7,7 +7,8 @@ Link to competition: https://ucsb-erp-contest.herokuapp.com/
 Slides can be found at: https://docs.google.com/presentation/d/1zC-y9jtTpfaNGIR7_5C1oHYKibpa8ITIv0sUOjxE1qk/edit?usp=sharing
 
 Victory Image :)
-![](ERP.jpg)
+![](images/2.JPG )
+![](images/7.JPG )
 
 ## Tools and Methods Used In Project
 - Pytorch
